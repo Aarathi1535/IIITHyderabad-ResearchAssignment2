@@ -61,12 +61,6 @@ python inference.py
 | Overfit    | 512       | 1024         | 3      | 0.1     | 0.0005       | 50     | 32         | Demonstrates overfitting   |
 | Best Fit   | 256       | 512          | 2      | 0.5     | 0.001        | 30     | 64         | Optimal generalization     |
 
-## Results
-
-- Training and validation loss/perplexity plots for each model (`plots/`)
-- Model comparison plot
-- Best model checkpoints (`models/`)
-- Perplexity used as main evaluation metric
 
 ## Key Features
 
